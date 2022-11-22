@@ -67,5 +67,11 @@ namespace DFA
             else
                 return false;
         }
+
+        public string NFA2Regex()
+        {
+
+            return "";
+        }
     }
 }
